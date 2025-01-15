@@ -11,7 +11,15 @@ The project using **Streamlit** for web deployment.
 
 ## Src:
 
-- Weather web: https://openweathermap.org/
+Weather web: https://openweathermap.org/
+
+<br>
+
+## Video demo
+Click on the image to go to the video demo
+
+[![Video Thumbnail](https://img.youtube.com/vi/ZDYjmMKCbZo/0.jpg)](https://www.youtube.com/watch?v=ZDYjmMKCbZo)
+
 <br>
 
 ## How to use
